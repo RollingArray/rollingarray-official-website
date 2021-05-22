@@ -1,21 +1,11 @@
+<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-landing.png?raw=true"/>
 
-![RA logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-landing.png?raw=true"/>)
-
-***[`Rolling Array`](https://rollingarray.co.in/)*** is an initiative to produce free and open source platforms or tools to make lives of easier to an individual
+***[`Rolling Array`](https://rollingarray.co.in/)*** is an initiative to produce ***free*** and ***open source*** platforms or tools to make lives of easier to an individual or an organization
 ---
 
-![RA logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-menu.png?raw=true"/>)
+<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-menu.png?raw=true"/>
 
 # Products
-- [Products](#products)
-- [:link: C2 :: Bring Equality In Diverse Workforce](#link-c2--bring-equality-in-diverse-workforce)
-- [:link: Tudil :: Projects are Complex. Managing them is not ... Any More](#link-tudil--projects-are-complex-managing-them-is-not--any-more)
-- [:link: Grape Community :: Connect Supplier and Community](#link-grape-community--connect-supplier-and-community)
-- [:link: TripPal :: Calculate your trip expenses on the GO](#link-trippal--calculate-your-trip-expenses-on-the-go)
-- [:large_blue_circle: Author](#large_blue_circle-author)
-- [:large_blue_circle: Show your support](#large_blue_circle-show-your-support)
-- [:large_blue_circle: License](#large_blue_circle-license)
-
 ---
 # :link: C2 :: Bring Equality In Diverse Workforce
 
@@ -89,7 +79,7 @@ Some of the features
 
 **[⬆ back to top](#table-of-contents)**
 
-# :large_blue_circle: Author
+# :link: Author
 **Ranjoy Sen**
 
 - https://rollingarray.co.in
@@ -97,11 +87,11 @@ Some of the features
 - Twitter: [@ranjoy85](Https://twitter.Com/ranjoy85)
 - Github: [@RollingArray](https://github.com/RollingArray)
 
-# :large_blue_circle: Show your support
+# :link: Show your support
 
 Please ⭐️ this repository if this project helped you!
 
 
-# :large_blue_circle: License
-support@rollingarray.co.in | C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
+# :link: License
+support@rollingarray.co.in | Rolling Array | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
 This project is [Apache](https://github.com/RollingArray/C2-client-app/blob/main/LICENSE) licensed.
