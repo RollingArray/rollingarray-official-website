@@ -1,6 +1,8 @@
 <img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-landing.png?raw=true"/>
 
-***[`Rolling Array`](https://rollingarray.co.in/)*** is an initiative to produce ***free*** and ***open source*** platforms or tools to make lives of easier to an individual or an organization
+***[`Rolling Array`](https://rollingarray.co.in/)*** is an initiative to produce ***[`Free`]*** and ***[`Open source`]*** platforms or tools to make lives of easier to an individual or an organization
+
+We learn everyday from this great community of open source :sparkling_heart: :ok_hand: and  ***[`Rolling Array`](https://rollingarray.co.in/)*** initiate is just a way to give it back :grinning:
 ---
 
 <img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-menu.png?raw=true"/>
