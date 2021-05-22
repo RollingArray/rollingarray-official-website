@@ -125,6 +125,9 @@ header .header-content .header-content-inner p {
   display: block;
   transition: 0.3s; }
 
+.overlay img {
+  width: 300px; }
+
 .overlay a:hover, .overlay a:focus {
   color: #f1f1f1; }
 
@@ -132,7 +135,8 @@ header .header-content .header-content-inner p {
   position: absolute;
   top: 20px;
   right: calc(100vw - 90vw);
-  font-size: 60px; }
+  font-size: 60px;
+  cursor: pointer; }
 
 @media screen and (max-height: 450px) {
   .overlay a {
