@@ -23,7 +23,7 @@
 
 ***[`C2`](http://c2.rollingarray.co.in/)*** has the power to generate meaningful ***credibility metric*** for each individual team member by analysing the ***feedbacks*** provided by the ***reviewers*** of the ***deliverables***
 
-![C2 logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/c2.png?raw=true"/>)
+<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/c2.png?raw=true"/>
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -48,7 +48,7 @@ Some of the features
 
 ... much more
 
-<img src="https://github.com/RollingArray/C2-storyline/blob/master/images/tudil.png?raw=true"/>
+<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/tudil.png?raw=true"/>
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -69,7 +69,7 @@ Some of the features
 > * ***Administrate*** various community and supplier requests
 Visit ***[`Grape Community YouTube channel`](https://www.youtube.com/channel/UCx3YmGw8Ziwx81vGrldaMXw)*** for feature videos
 
-<img src="https://github.com/RollingArray/C2-storyline/blob/master/images/ga.png?raw=true"/>
+<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ga.png?raw=true"/>
 
 **[⬆ back to top](#table-of-contents)**
 
