@@ -1,10 +1,10 @@
 
-![RA logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/main/product-shots/ra-landing.png?raw=true"/>)
+![RA logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-landing.png?raw=true"/>)
 
 ***[`Rolling Array`](https://rollingarray.co.in/)*** is an initiative to produce free and open source platforms or tools to make lives of easier to an individual
 ---
 
-![RA logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/main/product-shots/ra-menu.png?raw=true"/>)
+![RA logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/ra-menu.png?raw=true"/>)
 
 # Products
 - [Products](#products)
@@ -23,7 +23,7 @@
 
 ***[`C2`](http://c2.rollingarray.co.in/)*** has the power to generate meaningful ***credibility metric*** for each individual team member by analysing the ***feedbacks*** provided by the ***reviewers*** of the ***deliverables***
 
-<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/c2.png?raw=true"/>
+![C2 logo](<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/c2.png?raw=true"/>)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -48,7 +48,7 @@ Some of the features
 
 ... much more
 
-<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/tudil.png?raw=true"/>
+<img src="https://github.com/RollingArray/C2-storyline/blob/master/images/tudil.png?raw=true"/>
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -69,7 +69,7 @@ Some of the features
 > * ***Administrate*** various community and supplier requests
 Visit ***[`Grape Community YouTube channel`](https://www.youtube.com/channel/UCx3YmGw8Ziwx81vGrldaMXw)*** for feature videos
 
-<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/ga.png?raw=true"/>
+<img src="https://github.com/RollingArray/C2-storyline/blob/master/images/ga.png?raw=true"/>
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -85,7 +85,7 @@ Some of the features
 > * You can see ***who owes whom*** and ***settle down once paid***. You can ***calculate expenses*** for future trips
 > * You can ***close a trip*** and it will be moved to ***history***, you can ***re-open*** as required
 
-<img src="https://github.com/RollingArray/rollingarray-official-website/blob/main/product-shots/tp.png?raw=true"/>
+<img src="https://github.com/RollingArray/rollingarray-official-website/blob/master/product-shots/tp.png?raw=true"/>
 
 **[⬆ back to top](#table-of-contents)**
 
