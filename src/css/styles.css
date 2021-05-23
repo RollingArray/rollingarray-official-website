@@ -4,6 +4,9 @@ body {
   width: 100%;
   color: #fff !important; }
 
+a {
+  text-decoration: none; }
+
 hr {
   border-color: #56C2E1;
   border-width: 3px;
@@ -22,9 +25,14 @@ a:hover,
 a:focus {
   color: #eb3812; }
 
+.border {
+  background: #833ab4;
+  background: linear-gradient(90deg, rgba(131, 58, 180, 0) 0%, #f6f6f6 50%, rgba(252, 176, 69, 0) 100%);
+  height: 2px; }
+
 p {
-  font-size: 16px;
-  line-height: 1.5;
+  /* font-size: 16px;
+  line-height: 1.5; */
   margin-bottom: 20px; }
 
 .bg-primary {
@@ -62,8 +70,17 @@ header {
 header .header-content {
   position: relative;
   text-align: center;
-  padding-top: calc(100vh - 800px);
+  padding-bottom: 40px;
   width: 100%; }
+
+.mid-content {
+  position: relative;
+  text-align: center;
+  width: 80%;
+  padding-left: 10%;
+  font-family: 'Ubuntu Mono';
+  font-weight: 700;
+  font-size: 25px; }
 
 header .header-content .header-content-inner h1 {
   font-weight: 700;
@@ -145,3 +162,25 @@ header .header-content .header-content-inner p {
     font-size: 40px;
     top: 15px;
     right: calc(100vw - 90vw); } }
+
+.footer-content {
+  padding-bottom: 40px;
+  display: block;
+  /* left: 0; */
+  /* bottom: 0; */
+  width: 400px;
+  height: 70px;
+  text-align: center;
+  margin-left: calc((100vw - 400px)/2);
+  /* background: linear-gradient(to top, #a73102, #e1490d);  */ }
+
+.footer-content img {
+  margin: 10px; }
+
+h2 {
+  font-weight: 700;
+  font-family: 'Ubuntu Mono';
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 25px;
+  text-shadow: 3px 3px #000; }
